@@ -1,0 +1,12 @@
+#You have to ignore any of this files:
+**.bak
+*.db
+*.pdf
+*.ps
+*.mid
+*.midi
+*.aif
+*.wav
+# Some versions of Finale have a bug and randomly save extra copies of
+# the music source as "<Filename> copy.mus"
+*copy.mus
